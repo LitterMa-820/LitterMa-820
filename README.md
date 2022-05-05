@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LitterMa-820
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning English and  data structure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning deeping learning and prepare for my postgraduate degree
+- 💞️ I’m looking to collaborate on some image classification
+- 📫 reach me by mjh820421241@163.com
 
 <!---
 LitterMa-820/LitterMa-820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
