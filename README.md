@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LitterMa-820
 - 👀 I’m interested in coding
-- 🌱 salient objection detection
 - 💞️ I’m looking to collaborate on some image classification
 - 📫 reach me by mjh820421241@163.com
 
