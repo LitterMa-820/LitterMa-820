@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LitterMa-820
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning deeping learning and prepare for my postgraduate degree
+- 🌱 salient objection detection
 - 💞️ I’m looking to collaborate on some image classification
 - 📫 reach me by mjh820421241@163.com
 
