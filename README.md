@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LitterMa-820
-- 👀 I’m interested in coding
+- 👋 Hi, I’m LiterMa
+- 🔥🔥🔥 I am looking for a PhD opportunity 🔥🔥🔥
 - 💞️ I’m looking to collaborate on some image classification and salient objection detection
 - 📫 reach me by mjh820421241@163.com
 
