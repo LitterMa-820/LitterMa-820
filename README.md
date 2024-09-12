@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LiterMa
 - 🔥🔥🔥 I am looking for a PhD opportunity 🔥🔥🔥
-- 💞️ I’m looking to collaborate on some image classification and salient objection detection
+- 💞️ I’m looking to collaborate on some image classification, salient objection detection, medical image processing
 - 📫 reach me by mjh820421241@163.com
 
 <!---
