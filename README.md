@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LiterMa
-- 🔥🔥🔥 I am looking for a PhD opportunity 🔥🔥🔥
-- 💞️ I’m looking to collaborate on some image classification, salient objection detection, medical image processing
+- 💪 I am currently pursuing a doctoral degree at Southeast University.
+- 💞️ I’m looking to collaborate on some Encrypted Traffic, image classification, salient objection detection, medical image processing
 - 📫 reach me by mjh820421241@163.com
 
 <!---
